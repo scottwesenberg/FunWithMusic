@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\refint\FunWithMusic.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\FunWithMusic\FunWithMusic\obj\Debug\net6.0\ref\FunWithMusic.dll
