@@ -1,5 +1,5 @@
 ﻿using System;
-namespace movies
+namespace music
 {
     class Program
     {
@@ -27,6 +27,14 @@ namespace movies
                 Length = length;
                 Genre = genre;
             }
+            public void setTitle(string title)
+            {
+                Title = title;
+            }
+            public void setLength(string length)
+            {
+                Length = length;
+            }
             public string Display()
             {
                 return "Title: " + Title + 
@@ -38,7 +46,7 @@ namespace movies
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("What is the title of the song?");
+            Console.WriteLine("What is the title of a great song?");
             string tempTitle = Console.ReadLine();
 
             Console.WriteLine("Who is the artist of the song?");
@@ -72,8 +80,16 @@ namespace movies
                     tempGenre = Genre.Classical;
                     break;
             }
-            Music music = new Music(tempTitle, tempArtist, tempAlbum, tempLength, tempGenre);
+            Music music = new Music(tempTitle, tempArtist, tempAlbum,tempLength, tempGenre);
+            Music moreMusic = music;
+            Console.WriteLine("What is the another song on the album?");
+            moreMusic.setTitle(Console.ReadLine());
+            Console.WriteLine("What is the length of the song?");
+            moreMusic.setLength(Console.ReadLine()); 
             Console.WriteLine($"{music.Display()}");
+            Console.WriteLine($"{moreMusic.Display()}");
+
         }
+
     }
 }
